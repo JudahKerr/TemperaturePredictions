@@ -1,0 +1,14 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - seaborn
+  - ipywidgets
+  - scikit-learn
+  - notebook
+  - pip
